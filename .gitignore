@@ -1,0 +1,12 @@
+# python
+.venv/
+__pycache__/
+*.pyc
+
+# machine-specific state (folders + access token — do not publish)
+library.json
+
+# runtime leftovers
+server.log
+*.log
+jar.txt

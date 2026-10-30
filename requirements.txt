@@ -1,0 +1,5 @@
+fastapi>=0.110
+uvicorn>=0.29
+markdown>=3.5
+qrcode>=7.4
+pygments>=2.15
